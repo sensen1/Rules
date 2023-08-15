@@ -1,5 +1,5 @@
 # 内容：OpenAi
-# 数量：43条
+# 数量：46条
 DOMAIN,cdn.auth0.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,blob.core.windows.net
@@ -39,8 +39,8 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,js.hsforms.net
-DOMAIN-SUFFIX,forms.hsforms.com
+DOMAIN-SUFFIX,hsforms.net
+DOMAIN-SUFFIX,hsforms.com
 DOMAIN-SUFFIX,open-assistant.io
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaiapi
