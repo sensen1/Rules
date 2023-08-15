@@ -39,6 +39,8 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,js.hsforms.net
+DOMAIN-SUFFIX,forms.hsforms.com
 DOMAIN-SUFFIX,open-assistant.io
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaiapi
