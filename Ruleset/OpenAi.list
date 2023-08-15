@@ -40,8 +40,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,open-assistant.io
-DOMAIN-SUFFIX,hsforms.net
-DOMAIN-SUFFIX,hsforms.com
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
+DOMAIN-KEYWORD,hsforms
