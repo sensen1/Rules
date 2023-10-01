@@ -1,5 +1,5 @@
 # 内容：OpenAi
-# 数量：42条
+# 数量：44条
 DOMAIN,cdn.auth0.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,blob.core.windows.net
@@ -42,3 +42,6 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
 DOMAIN-KEYWORD,hsforms
+DOMAIN,free.netfly.top
+DOMAIN,winsky.onrender.com
+DOMAIN,talk1.985302.xyz
