@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,piwheels.org
 # Nodejs
 
 DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,npmjs.org
 
 
 # rust
