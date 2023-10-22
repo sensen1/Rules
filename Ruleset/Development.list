@@ -1,0 +1,21 @@
+# Python
+
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,pycon.org
+DOMAIN-SUFFIX,pypa.io
+DOMAIN-SUFFIX,pypi.io
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,piwheels.org
+
+# Nodejs
+
+DOMAIN-SUFFIX,nodejs.org
+
+
+# rust
+
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,rustup.rs
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,docs.rs
