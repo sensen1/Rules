@@ -27,4 +27,5 @@ DOMAIN-SUFFIX,docs.rs
 
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,hub.docker.com
+DOMAIN-SUFFIX,docker.test
 DOMAIN-SUFFIX,docker.io
