@@ -9,6 +9,10 @@ DOMAIN,winsky.onrender.com
 
 # DOMAIN SUFFIX
 
+DOMAIN-SUFFIX,bewildcard.com
+DOMAIN-SUFFIX,intercomassets.com
+DOMAIN-SUFFIX,intercom-sheets.com
+
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ai2sql.io
 DOMAIN-SUFFIX,akamaized.net
