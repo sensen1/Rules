@@ -34,6 +34,11 @@ DOMAIN-SUFFIX,docker.io
 
 DOMAIN-SUFFIX,api.dler.io
 DOMAIN-SUFFIX,subconverter.herokuapp.com
+DOMAIN-SUFFIX,moodle.org
+DOMAIN-SUFFIX,FreeBSD.org
+DOMAIN-SUFFIX,buypass.com
+
+# tools related
+
+DOMAIN-SUFFIX,zerotier.com
 DOMAIN-SUFFIX,ni.com
-
-
