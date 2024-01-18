@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,moodle.org
 DOMAIN-SUFFIX,FreeBSD.org
 DOMAIN-SUFFIX,buypass.com
 DOMAIN-SUFFIX,truenas.com
+DOMAIN-SUFFIX,cirrus-ci.com
 
 
 # tools related
