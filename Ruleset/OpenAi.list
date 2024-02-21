@@ -1,5 +1,5 @@
 # 内容：OpenAi
-# 数量：64条
+# 数量：71条
 
 # DOMAIN
 
@@ -7,6 +7,11 @@ DOMAIN,free.netfly.top
 DOMAIN,talk1.985302.xyz
 DOMAIN,winsky.onrender.com
 DOMAIN,scamalytics.com
+
+# bing
+
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
 
 # DOMAIN SUFFIX
 
