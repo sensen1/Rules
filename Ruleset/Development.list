@@ -49,3 +49,7 @@ DOMAIN-SUFFIX,portainer.io
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,namecheap.com
 DOMAIN-SUFFIX,nc-img.com
+
+# temp
+
+DOMAIN-SUFFIX,ttsonline.cn
