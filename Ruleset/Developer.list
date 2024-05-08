@@ -36,6 +36,8 @@ DOMAIN-SUFFIX,gradle-dn.com
 #DOMAIN,alt7-mtalk.google.com
 #DOMAIN,alt8-mtalk.google.com
 #DOMAIN,mtalk.google.com
+#DOMAIN-SUFFIX,ieee.com
+#DOMAIN-SUFFIX,ieee.org
  
 DOMAIN-SUFFIX,blog.google
 DOMAIN-SUFFIX,googletraveladservices.com
@@ -132,8 +134,6 @@ DOMAIN-SUFFIX,convertio.co
 DOMAIN-SUFFIX,moz.com
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,openreview.net
-DOMAIN-SUFFIX,ieee.com
-DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,pytorchlightning.ai
 DOMAIN-SUFFIX,virtualmin.com
 DOMAIN-SUFFIX,webmin.com
