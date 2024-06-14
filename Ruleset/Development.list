@@ -39,6 +39,8 @@ DOMAIN-SUFFIX,FreeBSD.org
 DOMAIN-SUFFIX,buypass.com
 DOMAIN-SUFFIX,truenas.com
 DOMAIN-SUFFIX,cirrus-ci.com
+DOMAIN-SUFFIX,ixsystems.com
+DOMAIN-SUFFIX,freenas.org
 
 
 # tools related
@@ -53,3 +55,10 @@ DOMAIN-SUFFIX,nc-img.com
 # temp
 
 DOMAIN-SUFFIX,ttsonline.cn
+
+# Github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com

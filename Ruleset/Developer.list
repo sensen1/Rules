@@ -415,6 +415,11 @@ DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,developer.chrome.com
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,rawgithub.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,jfrog.org
 DOMAIN-SUFFIX,sonatype.org
 DOMAIN-SUFFIX,maven.org
